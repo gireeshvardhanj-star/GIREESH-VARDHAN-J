@@ -1,0 +1,6 @@
+{
+  "name": "Microservices Nexus Studio",
+  "description": "An interactive architecture simulator, configuration generator, and visualizer for Python Gateway, Spring Boot Core, and Node.js Task microservices with JWT, rate limiting, distributed tracing, and CI/CD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
